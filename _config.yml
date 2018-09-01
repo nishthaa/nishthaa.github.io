@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nishtha Madaan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Nishtha Madaan"
+description              : &description "Nishtha Madaan is a researcher at IBM Research in India since 3+ years. She works on AI in Compliance, Fairness and Algorithmic Bias. Her job responsibility includes designing and developing NLP and Machine Learning based solutions for clients. She has also been leading multiple academic research collaborations. She has co-authored several research papers published in renowned computer science journals and conferences. She received her Master of Science in Computer Science at the International Institute of Information Technology Hyderabad (IIIT-H). Nishtha Madaan also earned a Diploma in Business Modeling at the University of Vienna, Austria."
+url                      : https://nishthaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,12 +79,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Nishtha"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=yd3R2X4AAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nishthaa"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,12 +105,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "nishtha_madaan"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  dblp             : "https://dblp.uni-trier.de/pers/hd/m/Madaan:Nishtha"
 
 
 # Reading Files

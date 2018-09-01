@@ -83,7 +83,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Bias and Fairness, Natural Language Processing, Machine Learning"
   location         : "Delhi, India"
-  employer         :
+  employer         : "https://researcher.watson.ibm.com/researcher/view.php?person=in-nishthamadaan"
   googlescholar    : "https://scholar.google.com/citations?user=yd3R2X4AAAAJ&hl=en"
   email            :
   uri              :
@@ -98,8 +98,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nishtha-madaan-21017541/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "nishtha-madaan-21017541/"
+  dblp             : "https://dblp.uni-trier.de/pers/hd/m/Madaan:Nishtha"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -111,7 +111,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  dblp             : "https://dblp.uni-trier.de/pers/hd/m/Madaan:Nishtha"
 
 
 # Reading Files

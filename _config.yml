@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Nishtha Madaan"
@@ -83,7 +76,7 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Bias and Fairness, Natural Language Processing, Machine Learning"
   location         : "Delhi, India"
-  employer         : "https://researcher.watson.ibm.com/researcher/view.php?person=in-nishthamadaan"
+  employer         : "IBM Research"
   googlescholar    : "https://scholar.google.com/citations?user=yd3R2X4AAAAJ&hl=en"
   email            :
   uri              :

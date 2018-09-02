@@ -9,7 +9,7 @@ paperurl: 'http://nishthaa.github.io/files/paper1.pdf'
 citation: 'Nishtha Madaan, P Radha Krishna, Kamalakar Karlapalem. &quot;Consistency detection in e-contract documents.&quot; <i>Conference 1</i>. 1(1).'
 ---
 
-Selected as Best Paper Nomination
+*Selected as Best Paper Nomination*
 
 [Download paper here](https://dl.acm.org/citation.cfm?id=2691249)
 

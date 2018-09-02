@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Compliance for Financial Regulations"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-3
 excerpt: 'Regulations are rules and directives published by authorities to safeguard consumer interest in an industry. Compliance with such regulations is getting increasingly hard due both to the complexity of these documents, which require experts to read, understand, and interpret them manually, and to the sheer volume of regulatory change. Many CFOs rate this as their top challenge. The authors' Cogpliance platform uses a cognitive approach to achieve regulatory compliance. Here, they describe key compliance-related tasks and demonstrate how Cogpliance helps compliance officers to handle those tasks effectively.'
 date: 2017
 venue: 'IT Professional Journal'

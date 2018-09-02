@@ -20,8 +20,14 @@ Work experience
 * June 2015 - Present:Research Software Engineer
   * IBM-India Research Lab, New Delhi, India
     * Working in Cognitive Finance Team
-  The key contributions are : 1. Simplified the Contract Monitoring effort at IBM by designing and developing a
-  research based solution to extract key elements like Service Levels from Contracts and then linked the information to the operational data and root cause analysis data. Further, worked on preparing a client health notion by predicting health of a client using a time-series based prediction algorithm. 2. Designed and developed a visual querying platform for regulatory documents using AngularJS to allow interactive question answering for users. This work has been done as a part of a client engagement and has been accepted for demo at Intelligent User Interfaces-2017. 3. Worked on building document structural and conceptual ontology for deep query answering. 4. Developed a system to track changes in versions of documents using graph based techniques. (accepted to appear in IEEE SCC 2018.) 5. Worked on construction of Information Maps from Financial entities and Relations. (work submitted to ICSOC 2018.)
+    *The key contributions are : 
+    1. Simplified the Contract Monitoring effort at IBM by designing and developing a
+    research based solution to extract key elements like Service Levels from Contracts and then linked the information to the               operational data and root cause analysis data. 
+    Further, worked on preparing a client health notion by predicting health of a client using a time-series based prediction algorithm. 
+    2. Designed and developed a visual querying platform for regulatory documents using AngularJS to allow interactive question answering for users. This work has been done as a part of a client engagement and has been accepted for demo at Intelligent User Interfaces-2017. 
+    3. Worked on building document structural and conceptual ontology for deep query answering. 
+    4. Developed a system to track changes in versions of documents using graph based techniques. (accepted to appear in IEEE SCC 2018.) 
+    5. Worked on construction of Information Maps from Financial entities and Relations. (work submitted to ICSOC 2018.)
   * Worked in Watson for Technical Support
     * Designed and developed solutions of a system to assist agents working in customer support. 
     This involved crunching past support requests data and developing a system to extract problem and solution from free form human transcripts. Furthermore, developed a system to analyze customer logs and generate automated resolutions and integrating this with the existing technology(Patent[rating : publish] on QA system and submitted a paper on the same at IM-2017).
@@ -35,19 +41,36 @@ Work experience
   Fiction. 
         * Articles published in Hindustan Times, Quartz, scroll and some other online blogs
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2014- July 2014: Software Developement Intern
+  * Progress Software- Hyderabad
+  * Duties included: Developed a recommendation engine on the basis of user history using map-reduce in Hadoop and Hbase in Python.
+
+* Aug 2014 - Dec 2014: Head Teaching Assistant for Introduction to Databases course
+  * International Institute Of Information Technology, Hyderabad (IIIT-H)
+  * Key responsibilities include : taking tutorials on MySQL, working with setting up and evaluating assignments,
+quiz sessions, end term papers an end term project.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* PyTorch
+* TensorFlow
+* Scikit-learn
+* NLTK
+* Gensim
+* Weka
+* D3
+* Hadoop
+* HBase
+* AngularJS
+* Javascript
+* Java
+* C++
+* MATLAB
+* C
+* OpenGL
+* MySQL
+
 
 Publications
 ======

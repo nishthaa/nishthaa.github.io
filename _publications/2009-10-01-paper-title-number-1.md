@@ -6,9 +6,10 @@ excerpt: 'E-contracts are textual documents describing various details and depen
 date: 2014/10/27
 venue: 'Proceedings of the 8th International Conference on Theory and Practice of Electronic Governance'
 paperurl: 'http://nishthaa.github.io/files/paper1.pdf'
-citation: 'Nishtha Madaan, P Radha Krishna, Kamalakar Karlapalem. &quot;Consistency detection in e-contract documents.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Nishtha Madaan, P Radha Krishna, Kamalakar Karlapalem. &quot;Consistency detection in e-contract documents.&quot; <i>Conference 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
+Selected as Best Paper Nomination
 
 [Download paper here](https://dl.acm.org/citation.cfm?id=2691249)
 

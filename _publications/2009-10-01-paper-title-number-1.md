@@ -1,14 +1,16 @@
 ---
-title: "Consistency detection in e-contract documents"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: '* Selected as Best Paper Nomination'
-date: 2014/10/27
-venue: 'Proceedings of the 8th International Conference on Theory and Practice of Electronic Governance'
-paperurl: 'http://nishthaa.github.io/files/paper1.pdf'
-citation: 'Nishtha Madaan, P Radha Krishna, Kamalakar Karlapalem. &quot;Consistency detection in e-contract documents.&quot; <i>Proceedings of the 8th International Conference on Theory and Practice of Electronic Governance</i>. 1(1).'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
+<a href='http://academicpages.github.io/files/paper1.pdf'>Download paper here</a>
 
-[Download paper here](https://dl.acm.org/citation.cfm?id=2691249)
+This paper is about the number 1. The number 2 is left for future work.
 
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).

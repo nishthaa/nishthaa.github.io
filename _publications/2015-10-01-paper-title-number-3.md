@@ -1,15 +1,16 @@
 ---
-title: "Cognitive Compliance for Financial Regulations"
+title: "Paper Title Number 3"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Regulations are rules and directives published by authorities to safeguard consumer interest in an industry. Compliance with such regulations is getting increasingly hard due both to the complexity of these documents, which require experts to read, understand, and interpret them manually, and to the sheer volume of regulatory change. Many CFOs rate this as their top challenge. The authors Cogpliance platform uses a cognitive approach to achieve regulatory compliance. Here, they describe key compliance-related tasks and demonstrate how Cogpliance helps compliance officers to handle those tasks effectively.'
-date: 2017
-venue: 'IT Professional Journal'
-paperurl: 'http://nishthaa.github.io/files/paper3.pdf'
-citation: 'Arvind Agarwal, Balaji Ganesan, Ankush Gupta, Nitisha Jain, Hima P Karanam, Arun Kumar, Nishtha Madaan, Vitobha Munigala, Srikanth G Tamilselvam. &quot; Cognitive Compliance for Financial Regulations .&quot; <i>IT Professional</i>. 1(1).'
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
+<a href='http://academicpages.github.io/files/paper3.pdf'>Download paper here</a>
 
-[Download paper here](https://www.researchgate.net/profile/Yousef_Labsiv/project/The-design-of-an-online-learning-system-in-Morocco-especially-rural-areas/attachment/59d2794ab53d2f2327c5389e/AS:545068364857344@1506965833478/download/mit201704.issue.pdf?context=ProjectUpdatesLog#page=30)
+This paper is about the number 3. The number 4 is left for future work.
 
-
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).

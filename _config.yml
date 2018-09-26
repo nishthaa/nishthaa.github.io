@@ -4,9 +4,7 @@ title                    : "Nishtha Madaan"
 title_separator          : "-"
 name                     : &name "Nishtha Madaan"
 description              : &description "Nishtha Madaan is a researcher at IBM Research in India since 3+ years. She works on AI in Compliance, Fairness and Algorithmic Bias. Her job responsibility includes designing and developing NLP and Machine Learning based solutions for clients. She has also been leading multiple academic research collaborations. She has co-authored several research papers published in renowned computer science journals and conferences. 
-
 She received her Master of Science in Computer Science at the International Institute of Information Technology Hyderabad (IIIT-H) under Prof. Kamal Karlapalem.
-
 Nishtha Madaan also earned a Diploma in Business Modeling at the University of Vienna, Austria with Prof. Dimitris Karagiannis"
 
 url                      : https://nishthaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -20,13 +18,13 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : Nishtha
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
